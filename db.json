@@ -1,0 +1,10 @@
+{
+  "settlement": {
+    "currentAmount": 0,
+    "isAmountEdited": false,
+    "history": [],
+    "success": false,
+    "fetchLoading": false,
+    "error": null
+  }
+}
